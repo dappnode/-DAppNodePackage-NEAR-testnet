@@ -1,0 +1,1 @@
+# -DAppNodePackage-NEAR-testnet
